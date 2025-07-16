@@ -187,7 +187,7 @@ class Calculator {
             }
         }
     }
-
+//sdasdd
     static void ProcessHighPrecedenceOperations(List<Float> numbers, List<Character> operators)
     {
         for (int i = 0; i < operators.size(); i++)
